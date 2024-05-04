@@ -7,6 +7,8 @@ a Piazza assistant application with an integrated AI chatbot that uses NLP to an
 
 ## Demo
 
+[![Thumbnail](https://img.youtube.com/vi/PHUxjM6d4X8/0.jpg)](https://www.youtube.com/watch?v=PHUxjM6d4X8)
+[![Thumbnail](https://img.youtube.com/vi/VwlAImxaXYU/0.jpg)](https://www.youtube.com/watch?v=VwlAImxaXYU)
 
 ## Architectural Diagram
 ![Screenshot 2024-03-05 at 10 49 16 AM](https://github.com/sparky713/nlp-piazza-analysis-chatbot/assets/89681080/6eba7a82-751e-4fa0-9395-655bedbe360b)
